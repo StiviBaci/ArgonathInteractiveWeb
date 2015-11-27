@@ -1,0 +1,37 @@
+{
+	"domain": "aiw.pcammu.bizz",
+	"owner": "Stivi Gvardia",
+	"data": [
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"menu": [
+		"Home",
+		"About Us",
+		"Shop",
+	],
+	"pages": [
+		"Welcome to Palomino Creek Ammu-Nation, the only local gun store in Palomino Creek.
+		This ammu-nation is run by Gvardia Ammu-Nation Co., which is part of Gvardia Corporation.",
+		"Gvardia Ammu-Nation Co. is founded by Gvardia Corporation in 2008,
+		just after the purchase of the Ocean Flats Ammu-Nation,
+		which is the first business that the Gvardia Corporation first purchased when it was founded. 
+		In its history it became the biggest arms company in producing and supplying the market, with 
+		stores all over San Andreas. After the government's nationalization of private businesses, 
+		the company had a tough path, to regain its position in the market. Today the company is back on its feet,
+		conrolling over fifty percent of the market.",
+		"At our ammu-nation you may purchase every assault rifle, shotgun, pistols, long-range rifles, everything our state allows."
+	],
+	"response": [
+		"",
+		"",
+		""
+	], 
+	"functions": [
+		""
+	],
+	"local_function": {}
+}
